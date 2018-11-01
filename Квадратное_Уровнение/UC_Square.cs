@@ -38,7 +38,7 @@ namespace Квадратное_Уровнение
             b = Convert.ToDouble(textBox2.Text);
             c = Convert.ToDouble(textBox3.Text);
             d = (b * b) - (4 * a * c);
-            textBox6.Text = " ";
+            textBox6.Text = "  ";
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
