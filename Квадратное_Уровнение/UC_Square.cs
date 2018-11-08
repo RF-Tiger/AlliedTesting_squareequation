@@ -33,7 +33,6 @@ namespace Квадратное_Уровнение
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
             a = Convert.ToDouble(textBox1.Text);
             b = Convert.ToDouble(textBox2.Text);
             c = Convert.ToDouble(textBox3.Text);
