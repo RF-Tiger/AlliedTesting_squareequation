@@ -49,6 +49,7 @@
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.timerTime = new System.Windows.Forms.Timer(this.components);
             this.panelControls = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
             this.panelLeft.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -61,6 +62,7 @@
             // 
             this.panelLeft.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(71)))), ((int)(((byte)(160)))));
             this.panelLeft.Controls.Add(this.panelSide);
+            this.panelLeft.Controls.Add(this.button1);
             this.panelLeft.Controls.Add(this.btnOther);
             this.panelLeft.Controls.Add(this.btnSquare);
             this.panelLeft.Controls.Add(this.btnAbout);
@@ -86,11 +88,11 @@
             this.btnOther.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.btnOther.Image = ((System.Drawing.Image)(resources.GetObject("btnOther.Image")));
             this.btnOther.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnOther.Location = new System.Drawing.Point(12, 285);
+            this.btnOther.Location = new System.Drawing.Point(12, 344);
             this.btnOther.Name = "btnOther";
             this.btnOther.Size = new System.Drawing.Size(184, 53);
             this.btnOther.TabIndex = 3;
-            this.btnOther.Text = " About";
+            this.btnOther.Text = "gaerge";
             this.btnOther.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnOther.UseVisualStyleBackColor = true;
             this.btnOther.Click += new System.EventHandler(this.btnOther_Click);
@@ -273,6 +275,22 @@
             this.panelControls.Size = new System.Drawing.Size(958, 498);
             this.panelControls.TabIndex = 3;
             // 
+            // button1
+            // 
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(12, 285);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(184, 53);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "  Сalculator";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.btnOther_Click);
+            // 
             // Form1
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
@@ -321,6 +339,7 @@
         private System.Windows.Forms.Label labelTime;
         private System.Windows.Forms.Timer timerTime;
         private System.Windows.Forms.Panel panelControls;
+        private System.Windows.Forms.Button button1;
     }
 }
 

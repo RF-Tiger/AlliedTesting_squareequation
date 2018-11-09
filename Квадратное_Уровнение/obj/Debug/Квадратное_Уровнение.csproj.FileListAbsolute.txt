@@ -34,3 +34,16 @@ C:\Users\User\Desktop\alliedtesting\AlliedTesting_squareequation\Квадрат�
 C:\Users\User\Desktop\alliedtesting\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\alliedtesting\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.exe
 C:\Users\User\Desktop\alliedtesting\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.pdb
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\bin\Debug\Квадратное_Уровнение.exe.config
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\bin\Debug\Квадратное_Уровнение.exe
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\bin\Debug\Квадратное_Уровнение.pdb
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.csprojAssemblyReference.cache
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.Form1.resources
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.Properties.Resources.resources
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.UC_About.resources
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.UC_Calculator.resources
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.UC_Square.resources
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.csproj.GenerateResource.cache
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.exe
+C:\Users\User\Desktop\git\AlliedTesting_squareequation\Квадратное_Уровнение\obj\Debug\Квадратное_Уровнение.pdb

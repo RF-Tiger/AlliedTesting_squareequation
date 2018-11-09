@@ -97,6 +97,9 @@ namespace Квадратное_Уровнение
         private void btnOther_Click(object sender, EventArgs e)
         {
             moveSidePanel(btnOther);
+            UC_Calculator qcc = new UC_Calculator();
+            AddControlsToPanel(qcc);
+
         }
 
         private void timerTime_Tick(object sender, EventArgs e)
