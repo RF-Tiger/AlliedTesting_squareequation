@@ -60,6 +60,12 @@
     <Compile Include="UC_About.Designer.cs">
       <DependentUpon>UC_About.cs</DependentUpon>
     </Compile>
+    <Compile Include="UC_Calculator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Calculator.Designer.cs">
+      <DependentUpon>UC_Calculator.cs</DependentUpon>
+    </Compile>
     <Compile Include="UC_Square.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -80,6 +86,9 @@
     </Compile>
     <EmbeddedResource Include="UC_About.resx">
       <DependentUpon>UC_About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Calculator.resx">
+      <DependentUpon>UC_Calculator.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="UC_Square.resx">
       <DependentUpon>UC_Square.cs</DependentUpon>
